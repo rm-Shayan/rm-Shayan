@@ -6,7 +6,6 @@
 </p>
 
 ---
-
 ### 🚀 About Me
 
 - 🔭 I’m currently working on **full-stack projects** with **React, Next.js, Node.js, Express, MongoDB, PostgreSQL, and TypeScript**.  
