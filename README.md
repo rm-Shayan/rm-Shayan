@@ -4,7 +4,6 @@
 <p align="center">
   <em>Building seamless, scalable, and interactive web applications that users love.</em>
 </p>
-
 ---
 ### 🚀 About Me
 
