@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hi, I'm Rao Muhammad Shayan</h1>
-<h3 align="center">Full Stack Web Developer | JavaScript Enthusiast | React & Node.js Specialist</h3>
+<h3 align="center">Full Stack Web Developer | JavaScript Enthusiast | React & Node.js Specialist</h3> 
 
 <p align="center">
   <em>Building seamless, scalable, and interactive web applications that users love.</em>
